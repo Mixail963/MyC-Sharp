@@ -1,8 +1,0 @@
-C:\Users\Misa\Desktop\DM\DM\bin\Debug\DM.exe.config
-C:\Users\Misa\Desktop\DM\DM\bin\Debug\DM.exe
-C:\Users\Misa\Desktop\DM\DM\bin\Debug\DM.pdb
-C:\Users\Misa\Desktop\DM\DM\obj\Debug\DM.csproj.AssemblyReference.cache
-C:\Users\Misa\Desktop\DM\DM\obj\Debug\DM.csproj.SuggestedBindingRedirects.cache
-C:\Users\Misa\Desktop\DM\DM\obj\Debug\DM.csproj.CoreCompileInputs.cache
-C:\Users\Misa\Desktop\DM\DM\obj\Debug\DM.exe
-C:\Users\Misa\Desktop\DM\DM\obj\Debug\DM.pdb
